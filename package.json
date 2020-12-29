@@ -1,6 +1,5 @@
 {
   "name": "sample-node-couchdb",
-  "version": "0.0.0",
   "description": "Testing CouchDB service",
   "main": "index.js",
   "scripts": {
